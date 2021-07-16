@@ -10,6 +10,8 @@ function App() {
         <p>
           <h1>HELLO WORLD</h1>
           <p>Develop branch</p>
+
+          <button onClick={() => alert("Super, co nie?")} >Click me</button>
         </p>
       </header>
     </div>
